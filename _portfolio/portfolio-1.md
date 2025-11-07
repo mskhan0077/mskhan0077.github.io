@@ -1,6 +1,6 @@
 ---
 title: "Marlin: Multi-ASV Adaptive Bathymetric Mapping (Ongoing work)"
-excerpt: "A multi-ASV framework for bathymetry mapping (work coming out soon)<br/><img src='/images/comparison_windmill_TS_lake_belief.png'>"
+excerpt: "<br/><img src='/images/comparison_windmill_TS_lake_belief.png'>"
 collection: portfolio
 ---
 
