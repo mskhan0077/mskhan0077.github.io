@@ -3,7 +3,7 @@ title: "A Search-Based Collision Avoidance Strategy with COLREGs for Autonomous 
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper, we present a search-based planning strategy that is computationally efficient, COLREGs-compliant, complete, and provides guarantees on the collision-free path.'
 date: 2025-10-01
 venue: 'IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2025) (for Oral Presentation)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

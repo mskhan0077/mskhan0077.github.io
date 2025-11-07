@@ -15,6 +15,16 @@ Looking ahead, I aspire to pursue a PhD and contribute to the development of int
 
 When I’m not working, I enjoy running, cycling, hiking, hitting the gym, and playing football (soccer). These activities help me stay active, focused, and inspired — both in and outside the lab.
 
+**Actively looking for PhD positions!**
+
 **Link to my CV**: [Saifullah's CV](https://drive.google.com/file/d/1E9hCAlkOJ1z-x3U6j3VooXP4C33dTojk/view?usp=sharing).
 
 **Link to my github profiles**: [mskhan0077](https://github.com/mskhan0077) and [mohammad21saif](https://github.com/mohammad21saif).
+
+
+
+
+# Conferences and Visits
+## Robotics: Science and Systems Conference 2024 (TU Delft, Netherlands)
+
+## Indian Institute of Technology, Guwahati
