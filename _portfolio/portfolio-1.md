@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Marlin: Multi-ASV Adaptive Bathymetric Mapping (Ongoing work)"
+excerpt: "A multi-ASV framework for bathymetry mapping (work coming out soon)<br/><img src='/images/comparison_windmill_TS_lake_belief.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this work, I aim to approximate the bathymetry using a data-driven approach, with the goal of significantly reducing the time and distance required to model the underwater terrain.
+
+Coming out soon...
