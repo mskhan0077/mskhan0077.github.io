@@ -24,7 +24,13 @@ When I’m not working, I enjoy running, cycling, hiking, hitting the gym, and p
 
 
 
-# Conferences and Visits
+# Conferences and Research Visits
 ## Robotics: Science and Systems Conference 2024 (TU Delft, Netherlands)
 
+![In front of TU Delft](/images/rss_tudelft.jpg)
+
+![Robohouse group photo](/images/rss_group_photo.jpg)
+
 ## Indian Institute of Technology, Guwahati
+
+![IIT Guwahati Lake Test](/images/iitg.jpg)
