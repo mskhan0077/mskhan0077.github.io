@@ -17,7 +17,7 @@ When I’m not working, I enjoy running, cycling, hiking, hitting the gym, and p
 
 **Actively looking for PhD positions!**
 
-**Link to my CV**: [Saifullah's CV](https://drive.google.com/file/d/1E9hCAlkOJ1z-x3U6j3VooXP4C33dTojk/view?usp=sharing).
+<!-- **Link to my CV**: [Saifullah's CV](https://drive.google.com/file/d/1E9hCAlkOJ1z-x3U6j3VooXP4C33dTojk/view?usp=sharing). -->
 
 **Link to my github profiles**: [mskhan0077](https://github.com/mskhan0077) and [mohammad21saif](https://github.com/mohammad21saif).
 
