@@ -1,5 +1,5 @@
 ---
-title: "Marlin: Multi-ASV Adaptive Bathymetric Mapping (Ongoing work)"
+title: "Multi-agent Adaptive Sampling for 2D Spatial Field Reconstruction (Ongoing work)"
 excerpt: "<br/><img src='/images/comparison_windmill_TS_lake_belief.png'>"
 collection: portfolio
 ---
