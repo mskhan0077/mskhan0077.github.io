@@ -7,7 +7,7 @@ excerpt: 'In this paper, we present a search-based planning strategy that is com
 date: 2025-10-01
 venue: 'IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2025) (for Oral Presentation)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-<!-- paperurl: 'http://academicpages.github.io/files/MRS25_0062_FI.pdf' -->
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11357265/'
 citation: 'K. K. Jaiswal, M. S. Khan, R. V. Kulkarni, P. B. Sujit, "A Search-Based Collision Avoidance Strategy with COLREGs for Autonomous Surface Vehicles" in IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2025), Singapore, December 2025.
 '
 ---
