@@ -167,29 +167,6 @@ cv:
         releaseDate: "2025"
         summary: Conference paper (Oral Presentation).
 
-    Patents:
-      - name: A User-Wearable Indian Sign Language Translator
-        date: 2023-10-18
-        issuer: Indian Patent Office
-        summary: "Application number: 202321071011; Date of filing: 18/10/2023."
-
-    Teaching and Outreach:
-      - company: Department of EECS, IISER Bhopal
-        position: Teaching Assistant
-        location: Bhopal, India
-        start_date: 2024-08
-        end_date: 2024-11
-        highlights:
-          - Teaching assistant for ECS 203 (Basic Electronics); led tutorials and supported circuit analysis and lab concepts.
-
-      - company: Ashoka University
-        position: Invited Workshop Speaker
-        location: Sonipat, India
-        start_date: 2026-02
-        end_date: 2026-02
-        highlights:
-          - Gave a hands-on introduction to robotics and ROS2 to undergraduate CS and Physics students.
-
     Skills:
       - name: Programming
         icon: fa-solid fa-code
