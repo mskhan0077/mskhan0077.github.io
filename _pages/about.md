@@ -6,7 +6,7 @@ subtitle: Project Associate I, Multi-Robot Autonomy (MOON) Lab, IISER Bhopal
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: website_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Project Associate I</p>
