@@ -20,7 +20,3 @@ nav_order: 4
     <div class="caption">Field test on the lake at IIT Guwahati.</div>
   </div>
 </div>
-
-<div class="caption mt-3">
-  Click any photo to zoom in.
-</div>
