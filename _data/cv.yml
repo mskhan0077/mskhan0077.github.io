@@ -1,12 +1,9 @@
 cv:
   name: Mohammad Saifullah Khan
-  label: Robotics Researcher
   email: mohammad21@iiserb.ac.in
   phone: "+91-7225867555"
   website: https://mskhan0077.github.io
   location: Bhopal, India
-  image: ""
-  summary: Robotics researcher at the Multi-Robot Autonomy (MOON) Lab, IISER Bhopal, working on field and marine robotics, multi-robot systems, informative path planning, and decision-making under uncertainty.
 
   social_networks:
     - network: GitHub
@@ -17,13 +14,6 @@ cv:
       username: mo-saif-khan
     - network: Google Scholar
       username: ""
-
-  address:
-    street: ""
-    city: Bhopal
-    region: Madhya Pradesh
-    postalCode: "462036"
-    countryCode: IN
 
   sections:
     Research Interests:
@@ -46,7 +36,6 @@ cv:
         url: ""
         area: Secondary Education
         studyType: Class XII
-        start_date: ""
         end_date: 2021-05
         score: "CGPA: 94.2/100.0"
 
@@ -137,32 +126,32 @@ cv:
           - Developed a wearable ISL-to-text/audio system with 97% real-time accuracy; shortlisted at 2022-23 IEEE CASS SDC.
 
     Awards:
-      - title: Bharat Innovates 2026 (National Basecamp)
+      - name: Bharat Innovates 2026 (National Basecamp)
         date: 2025-12
         awarder: IIT Gandhinagar
         summary: Shortlisted from 1,400 teams to the top 400 to showcase GesTr.
 
-      - title: Best Oral Presentation (EECS Symposium)
+      - name: Best Oral Presentation (EECS Symposium)
         date: 2025-02
         awarder: Department of EECS, IISER Bhopal
         summary: Presented a marine robotics platform for in-field experimentation and its application in water body cleaning.
 
-      - title: Inclusion@RSS 2024 Fellowship
+      - name: Inclusion@RSS 2024 Fellowship
         date: 2024-07
         awarder: "Robotics: Science and Systems Foundation"
-        summary: Awarded a fellowship to attend the Robotics: Science and Systems (RSS) 2024 Conference at TU Delft, the Netherlands; selected as one of 27 students globally.
+        summary: "Awarded a fellowship to attend the Robotics: Science and Systems (RSS) 2024 Conference at TU Delft, the Netherlands; selected as one of 27 students globally."
 
-      - title: ISRO Robotics Challenge-URSC 2024 (IRoC-U2024)
+      - name: ISRO Robotics Challenge-URSC 2024 (IRoC-U2024)
         date: 2024-07
         awarder: Indian Space Research Organisation (ISRO)
         summary: Qualified the Hardware Functionality Demonstration and Rover Functionality Demonstration rounds; selected as one of the top 20 teams in India.
 
-      - title: IASc-INSA-NASI Summer Research Fellowship
+      - name: IASc-INSA-NASI Summer Research Fellowship
         date: 2024-05
         awarder: Indian Academy of Sciences (IASc), INSA & NASI
         summary: Awarded a competitive national summer research fellowship to conduct summer research under Dr Nagahanumaiah at CMTI, Bengaluru.
 
-      - title: 2022-23 IEEE CASS Student Design Competition
+      - name: 2022-23 IEEE CASS Student Design Competition
         date: 2023-03
         awarder: IEEE CASS
         summary: Achieved third position in Asia-Pacific.
@@ -175,8 +164,7 @@ cv:
           - R. Kulkarni
           - S. P. Baliyarasimhuni
         publisher: IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
-        releaseDate: 2025
-        url: ""
+        releaseDate: "2025"
         summary: Conference paper (Oral Presentation).
 
     Patents:
