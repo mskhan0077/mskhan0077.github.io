@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Researcher, Multi-Robot Autonomy (MOON) Lab, IISER Bhopal
+subtitle: Project Associate I, Multi-Robot Autonomy (MOON) Lab, IISER Bhopal
 
 profile:
   align: right
