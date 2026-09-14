@@ -34,22 +34,3 @@ My work has primarily focused on marine robotics, where I have designed and impl
 Field trials are what shaped my interests. Plans that are correct on paper often fail once state estimates are noisy and communication between vehicles is delayed. I am looking to start a PhD on methods that let robot teams adapt online, reason about their own uncertainty, and act safely under partial observability.
 
 When I'm not working, I enjoy running, cycling, hiking, hitting the gym, and playing football (soccer). These activities help me stay active, focused, and inspired — both in and outside the lab.
-
-<!-- **Actively looking for PhD positions!** -->
-
-<!-- ## Conferences and Research Visits
-
-**Robotics: Science and Systems Conference 2024** (TU Delft, Netherlands)
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gallery/rss_tudelft.jpg" title="In front of TU Delft" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gallery/rss_group_photo.jpg" title="Robohouse group photo" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-**Indian Institute of Technology, Guwahati**
-
-{% include figure.liquid loading="eager" path="assets/img/gallery/iitg.jpg" title="IIT Guwahati Lake Test" class="img-fluid rounded z-depth-1" %} -->
