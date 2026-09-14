@@ -1,187 +1,256 @@
 cv:
   name: Mohammad Saifullah Khan
-  label: Graduate Researcher
+  label: Robotics Researcher
   email: mohammad21@iiserb.ac.in
+  phone: "+91-7225867555"
+  website: https://mskhan0077.github.io
   location: Bhopal, India
   image: ""
-  summary: Graduate researcher at the Multi-Robot Autonomy (MOON) Lab, IISER Bhopal, working on field robotics, multi-agent systems, and autonomous decision-making under uncertainty.
+  summary: Robotics researcher at the Multi-Robot Autonomy (MOON) Lab, IISER Bhopal, working on field and marine robotics, multi-robot systems, informative path planning, and decision-making under uncertainty.
 
   social_networks:
     - network: GitHub
       username: mskhan0077
+    - network: GitHub
+      username: mohammad21saif
     - network: LinkedIn
       username: mo-saif-khan
+    - network: Google Scholar
+      username: ""
 
   address:
     street: ""
     city: Bhopal
     region: Madhya Pradesh
-    postalCode: ""
+    postalCode: "462036"
     countryCode: IN
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+    Research Interests:
+      - name: Research Interests
+        icon: fa-solid fa-tag
+        keywords: "Field & Marine Robotics, Multi-Robot Systems, Informative Path Planning, Decision-making under Uncertainty"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+    Education:
+      - institution: Indian Institute of Science Education and Research Bhopal
+        location: Bhopal, India
+        url: https://www.iiserb.ac.in/
+        area: Electrical Engineering and Computer Science, minor in Data Science
+        studyType: Integrated BS-MS (Master's level degree)
+        start_date: 2021-12
+        end_date: 2026-06
+        score: "CGPA: 8.68/10.00"
+
+      - institution: Holy Family Convent Sr. Sec. School
+        location: Bhopal, India
+        url: ""
+        area: Secondary Education
+        studyType: Class XII
+        start_date: ""
+        end_date: 2021-05
+        score: "CGPA: 94.2/100.0"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Multi-Robot Autonomy (MOON) Lab, IISER Bhopal
+        position: Project Associate I
+        location: Bhopal, India
+        start_date: 2026-07
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Developing a bio-inspired surface vehicle for autonomous navigation in vegetation-choked and debris-laden waterways, where conventional propellers foul.
+          - Building a Unity-based simulation environment for the lab's marine, ground and aerial platforms.
+          - Investigating sim-to-real transfer of learned navigation policies onto the lab's ASV fleet, addressing hydrodynamic mismatch, sensor noise, actuation delay, etc.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Multi-Robot Autonomy (MOON) Lab, IISER Bhopal
+        position: Graduate Researcher
+        location: Bhopal, India
+        start_date: 2025-06
+        end_date: 2026-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - Developed MA-BaTS, a multi-agent adaptive bathymetric mapping framework using Gaussian Process field reconstruction with Thompson Sampling acquisition; achieved ~68% reduction in traversal distance at equivalent reconstruction error, validated on a two-USV team in outdoor field trials.
+          - Built and ran the full deployment stack for these trials with ROS coordination, echosounder and GPS/IMU integration, and mission execution on water.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Department of EEE, IIT Guwahati
+        position: Visiting Student Researcher (concurrent with MOON Lab)
+        location: Guwahati, India
+        start_date: 2025-03
+        end_date: 2025-10
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Visiting researcher at the Energy Resilience Research Lab under Dr. Prabir Barooah.
+          - Built an autonomous field-testing platform and conducted real-world experimental validation.
+
+      - company: Multi-Robot Autonomy (MOON) Lab, IISER Bhopal
+        position: Undergraduate Researcher
+        location: Bhopal, India
+        start_date: 2023-08
+        end_date: 2025-04
+        highlights:
+          - Co-developed a search-based collision avoidance strategy encoding COLREGs maritime traffic rules for autonomous surface vessels, enabling rule-compliant safe navigation.
+          - Prototyped autonomous robotic systems covering sensing, control, deployment, and field trials.
+
+    Projects:
+      - name: "MA-BaTS: Multi-agent Adaptive Bathymetry Mapping using Thompson Sampling"
+        summary: MOON Lab, IISER Bhopal
+        start_date: 2025-06
+        end_date: present
+        highlights:
+          - Developed a learning-based adaptive framework for collaborative bathymetric mapping, combining Gaussian Process reconstruction on the seafloor depth field with multi-robot decision making and control under limited sensing.
+          - Achieved a ~68% reduction in traversal distance at equivalent reconstruction error; framework validated in real-world field deployments.
+
+      - name: "EcoBoat: Autonomous Cleaning Boat (v2)"
+        summary: MOON Lab, IISER Bhopal
+        start_date: 2024-12
+        end_date: 2025-02
+        highlights:
+          - Developed an autonomous lake-cleaning robot with Tesla-valve-inspired passive debris collection.
+          - Implemented random-sampling-based coverage planning for debris collection missions.
+
+      - name: "AquaRP: Autonomous Surface Vehicle (ASV) Research Platform"
+        summary: MOON Lab, IISER Bhopal & IIT Guwahati
+        start_date: 2024-08
+        end_date: 2024-09
+        highlights:
+          - Designed and integrated a low-cost ($2200) autonomous surface vehicle with embedded control (Pixhawk), onboard computation (NVIDIA Jetson), and multi-modal sensing (camera, GPS/IMU, echosounder).
+          - Implemented autonomous navigation and multi-agent coordination, enabling collaborative field missions and real-world system validation.
+
+      - name: Manipulator Arm for Pick-and-Place Task
+        summary: MOON Lab, IISER Bhopal
+        start_date: 2023-12
+        end_date: 2024-07
+        highlights:
+          - Designed a custom 5-DOF manipulator; implemented kinematic control using Robotics Toolbox.
+          - Integrated vision-based object pose estimation using FoundationPose.
+
+      - name: Autonomous Cleaning Boat
+        summary: MOON Lab, IISER Bhopal
+        start_date: 2023-05
+        end_date: 2023-07
+        highlights:
+          - Developed an autonomous debris-cleaning robot with YOLOv5s-based detection in VRX simulation.
+          - Deployed onboard computation using Jetson Nano with Pixhawk-based navigation.
+
+      - name: "GesTr: Wearable Indian Sign Language Translation Device"
+        summary: ED'ICT Lab, IISER Bhopal
+        start_date: 2022-12
+        end_date: 2023-03
+        highlights:
+          - Developed a wearable ISL-to-text/audio system with 97% real-time accuracy; shortlisted at 2022-23 IEEE CASS SDC.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Bharat Innovates 2026 (National Basecamp)
+        date: 2025-12
+        awarder: IIT Gandhinagar
+        summary: Shortlisted from 1,400 teams to the top 400 to showcase GesTr.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Best Oral Presentation (EECS Symposium)
+        date: 2025-02
+        awarder: Department of EECS, IISER Bhopal
+        summary: Presented a marine robotics platform for in-field experimentation and its application in water body cleaning.
+
+      - title: Inclusion@RSS 2024 Fellowship
+        date: 2024-07
+        awarder: "Robotics: Science and Systems Foundation"
+        summary: Awarded a fellowship to attend the Robotics: Science and Systems (RSS) 2024 Conference at TU Delft, the Netherlands; selected as one of 27 students globally.
+
+      - title: ISRO Robotics Challenge-URSC 2024 (IRoC-U2024)
+        date: 2024-07
+        awarder: Indian Space Research Organisation (ISRO)
+        summary: Qualified the Hardware Functionality Demonstration and Rover Functionality Demonstration rounds; selected as one of the top 20 teams in India.
+
+      - title: IASc-INSA-NASI Summer Research Fellowship
+        date: 2024-05
+        awarder: Indian Academy of Sciences (IASc), INSA & NASI
+        summary: Awarded a competitive national summer research fellowship to conduct summer research under Dr Nagahanumaiah at CMTI, Bengaluru.
+
+      - title: 2022-23 IEEE CASS Student Design Competition
+        date: 2023-03
+        awarder: IEEE CASS
+        summary: Achieved third position in Asia-Pacific.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: A Search-Based Collision Avoidance Strategy with COLREGs for Autonomous Surface Vehicles
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - K. Jaiswal
+          - "***M. S. Khan***"
+          - R. Kulkarni
+          - S. P. Baliyarasimhuni
+        publisher: IEEE International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
+        releaseDate: 2025
+        url: ""
+        summary: Conference paper (Oral Presentation).
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Patents:
+      - name: A User-Wearable Indian Sign Language Translator
+        date: 2023-10-18
+        issuer: Indian Patent Office
+        summary: "Application number: 202321071011; Date of filing: 18/10/2023."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Teaching and Outreach:
+      - company: Department of EECS, IISER Bhopal
+        position: Teaching Assistant
+        location: Bhopal, India
+        start_date: 2024-08
+        end_date: 2024-11
+        highlights:
+          - Teaching assistant for ECS 203 (Basic Electronics); led tutorials and supported circuit analysis and lab concepts.
+
+      - company: Ashoka University
+        position: Invited Workshop Speaker
+        location: Sonipat, India
+        start_date: 2026-02
+        end_date: 2026-02
+        highlights:
+          - Gave a hands-on introduction to robotics and ROS2 to undergraduate CS and Physics students.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, MATLAB"
+
+      - name: Robotics & Middleware
+        icon: fa-solid fa-robot
+        keywords: "ROS/ROS2, Nav2"
+
+      - name: Embedded Systems & Hardware Integration
+        icon: fa-solid fa-microchip
+        keywords: "Pixhawk (PX4/ArduPilot), Raspberry Pi, NVIDIA Jetson, Arduino"
+
+      - name: Perception & Sensors
+        icon: fa-solid fa-satellite-dish
+        keywords: "Cameras, LiDAR, GPS, IMU, Sonar/Echosounder"
+
+      - name: Planning & Control
+        icon: fa-solid fa-route
+        keywords: "Search-based planning, sampling-based planning, kinematic control, information-driven exploration"
+
+      - name: Simulation
+        icon: fa-solid fa-cubes
+        keywords: "Gazebo, Unity"
+
+      - name: Design & Fabrication
+        icon: fa-solid fa-drafting-compass
+        keywords: "CAD, 3D printing"
+
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "Deep Reinforcement Learning, Probabilistic Modelling, Gaussian Processes"
+
+      - name: Other Tools & Technologies
+        icon: fa-solid fa-toolbox
+        keywords: "Git, Docker, Linux, TCP/IP Networking"
 
     Languages:
-      - name: German
+      - name: Hindi
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr Sujit Pedda Baliyarasimhuni
+        icon: fa-solid fa-user-tie
+        reference: "Professor, Department of Electrical Engineering and Computer Science, Indian Institute of Science Education and Research Bhopal. Email: sujit@iiserb.ac.in. Phone: +91 755 269 2649"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr Pydi Ganga Bahubalindruni
+        icon: fa-solid fa-user-tie
+        reference: "Associate Professor, Department of Electrical Engineering and Computer Science, Indian Institute of Science Education and Research Bhopal. Email: ganga@iiserb.ac.in. Phone: +91 755 269 2650"
