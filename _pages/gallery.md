@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: Field trials, robots, and moments from the lab.
+description: Field trials, robots, conference visits and research visits.
 nav: true
 nav_order: 4
 ---
