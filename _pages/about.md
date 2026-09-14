@@ -35,9 +35,9 @@ Field trials are what shaped my interests. Plans that are correct on paper often
 
 When I'm not working, I enjoy running, cycling, hiking, hitting the gym, and playing football (soccer). These activities help me stay active, focused, and inspired — both in and outside the lab.
 
-**Actively looking for PhD positions!**
+<!-- **Actively looking for PhD positions!** -->
 
-## Conferences and Research Visits
+<!-- ## Conferences and Research Visits
 
 **Robotics: Science and Systems Conference 2024** (TU Delft, Netherlands)
 
@@ -52,4 +52,4 @@ When I'm not working, I enjoy running, cycling, hiking, hitting the gym, and pla
 
 **Indian Institute of Technology, Guwahati**
 
-{% include figure.liquid loading="eager" path="assets/img/gallery/iitg.jpg" title="IIT Guwahati Lake Test" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/gallery/iitg.jpg" title="IIT Guwahati Lake Test" class="img-fluid rounded z-depth-1" %} -->
