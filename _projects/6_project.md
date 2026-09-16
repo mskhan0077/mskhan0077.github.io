@@ -7,21 +7,17 @@ importance: 6
 category: work
 ---
 
-We participated in the 2022–23 IEEE CASS Student Design Competition as part of a 6-member team, where we developed a device capable of capturing hand and finger movements using sensors and Arduino. The system integrated an artificial neural network deployed on a Raspberry Pi to enable real-time translation of sign language gestures, demonstrating an application of embedded systems and machine learning for assistive communication technology.
+### The Overview
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gallery/gestr.png" title="GesTr device" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+GES-Tr is a wearable system that recognizes Indian Sign Language gestures using flex sensors and IMUs and translates them into readable text (and audio, in updated version) in real time. This project was developed as part of 2022-23 IEEE CASS Student Design Competition.
 
-### Demo video
+**My role:** Hardware development, system integration and finance management.
 
-<!-- <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/bl589aJwOeA" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div> -->
+The project was developed by a team of six: Sumit Pisal, Varun Sakhare, Mohammad Saifullah Khan, Sattwik Kumar Sahu, Aryan Jain, and Siddhi Pravin Lipare.
+
+### The Problem
+
+Communication between people who use sign language and people who do not understand it can require an interpreter, creating an accessibility barrier and introducing opportunities for misinterpretation. GES-Tr was designed to address this problem by creating a portable, self-contained sign-language translation device that could convert hand gestures into text without relying on computer vision.
 
 ### Project report
 
@@ -29,4 +25,22 @@ We participated in the 2022–23 IEEE CASS Student Design Competition as part of
 
 <p class="mt-2"><a href="{{ '/assets/pdf/Ges-Tr_report.pdf' | relative_url }}" target="_blank">Open the PDF in a new tab</a></p>
 
-<!-- To know more: <a href="https://drive.google.com/drive/folders/1J-STS8fOFF95G_iqSjdDB4Ael2elunUC?usp=sharing">click here</a>. -->
+### Outcome
+
+The team acheived third place in Asia-Pacific region in 2022-23 IEEE CASS Student Design Competition. Further, a patent was filed after adding functionality for audio output in the Indian Patent Office. The demo of our project can be found in the following link: [Ges-Tr Demo](https://youtube.com/shorts/17JKCC7y8Sc)
+
+### Further work
+
+The sensor glove that was developed was used in our work which we submitted to IJCAI 2026 (rejected!). Check out the work here.
+
+<iframe src="{{ '/assets/pdf/rapid_cross_domain_transfer_ijcai26.pdf' | relative_url }}" width="100%" height="700px" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
+
+<p class="mt-2"><a href="{{ '/assets/pdf/rapid_cross_domain_transfer_ijcai26.pdf' | relative_url }}" target="_blank">Open the PDF in a new tab</a></p>
+
+### Key Learnings
+
+The project gave me an experience in sensor selection and placement, signal filtering, system integration and model deployment on hardware.
+
+### Credits
+
+The project was carried out in the EDICT Lab at IISER Bhopal under the mentorship of Dr. Pydi Ganga Bahubalindruni.
