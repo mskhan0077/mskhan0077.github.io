@@ -4,7 +4,7 @@ title: "GesTr: A Wearable Device to Translate Indian Sign Language to Text and A
 description: IEEE CASS Student Design Competition 2022–23
 img: assets/img/gallery/gestr.png
 importance: 6
-category: work
+category: fun
 ---
 
 ### The Overview
