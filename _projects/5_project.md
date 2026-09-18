@@ -35,7 +35,6 @@ The rover needed to autonomously collect sample tube from the terrain and deposi
     </div>
 </div>
 
-
 ### Outcome
 
 The team was among the top 20 teams out of 1200 teams from all over India.
