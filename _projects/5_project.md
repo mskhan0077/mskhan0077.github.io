@@ -4,7 +4,7 @@ title: Manipulator Arm
 description: ISRO Robotics Challenge 2024
 img: assets/img/gallery/rover_8.jpg
 importance: 5
-category: work
+category: fun
 ---
 
 ### Overview
@@ -24,8 +24,6 @@ The rover needed to autonomously collect sample tube from the terrain and deposi
 <iframe src="{{ '/assets/pdf/ISRO_Competition.pdf' | relative_url }}" width="100%" height="700px" style="border: 1px solid #ccc; border-radius: 4px;"></iframe>
 
 <p class="mt-2"><a href="{{ '/assets/pdf/ISRO_Competition.pdf' | relative_url }}" target="_blank">Open the PDF in a new tab</a></p>
-
-### Project Video
 
 ### Project Video
 
