@@ -7,7 +7,7 @@ importance: 6
 category: fun
 ---
 
-### The Overview
+### Overview
 
 GES-Tr is a wearable system that recognizes Indian Sign Language gestures using flex sensors and IMUs and translates them into readable text (and audio, in updated version) in real time. This project was developed as part of 2022-23 IEEE CASS Student Design Competition.
 
