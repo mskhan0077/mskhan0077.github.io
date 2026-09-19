@@ -3,7 +3,7 @@ layout: page
 title: "AquaRP: Autonomous Surface Vehicle (ASV) Research Platform"
 description: A low-cost ASV research platform for marine research applications
 img: assets/img/gallery/single_ASV.jpg
-importance: 4
+importance: 3
 category: work
 related_publications: true
 ---
