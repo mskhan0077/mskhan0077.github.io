@@ -27,11 +27,7 @@ The rover needed to autonomously collect sample tube from the terrain and deposi
 
 ### Project Video
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=o4lwY4zWxYc" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+The video of the rover can be found at the following link: [Rover Demonstration](https://youtu.be/o4lwY4zWxYc?si=A5hoFODgKScMKjkT)
 
 ### Outcome
 
